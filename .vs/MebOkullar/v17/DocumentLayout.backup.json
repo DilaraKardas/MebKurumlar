@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|c:\\users\\dlrka\\desktop\\mebokullar\\mebokullar\\service\\ozelokulservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|solutionrelative:mebokullar\\service\\ozelokulservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|c:\\users\\dlrka\\desktop\\mebokullar\\mebokullar\\scrapper\\genericscaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|solutionrelative:mebokullar\\scrapper\\genericscaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|c:\\users\\dlrka\\desktop\\mebokullar\\mebokullar\\models\\ozelokul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|solutionrelative:mebokullar\\models\\ozelokul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|c:\\users\\dlrka\\desktop\\mebokullar\\mebokullar\\controllers\\okulcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|solutionrelative:mebokullar\\controllers\\okulcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|c:\\users\\dlrka\\desktop\\mebokullar\\mebokullar\\models\\ozelyurtlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|solutionrelative:mebokullar\\models\\ozelyurtlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|c:\\users\\dlrka\\desktop\\mebokullar\\mebokullar\\data\\mebdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|solutionrelative:mebokullar\\data\\mebdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|c:\\users\\dlrka\\desktop\\mebokullar\\mebokullar\\dtomodel\\kursdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|solutionrelative:mebokullar\\dtomodel\\kursdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|c:\\users\\dlrka\\desktop\\mebokullar\\mebokullar\\dtomodel\\ozelokuldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2622F8-A877-46AC-B897-CA4AEAD739C0}|MebOkullar\\MebOkullar.csproj|solutionrelative:mebokullar\\dtomodel\\ozelokuldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 305,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OkulController.cs",
+              "DocumentMoniker": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\Controllers\\OkulController.cs",
+              "RelativeDocumentMoniker": "MebOkullar\\Controllers\\OkulController.cs",
+              "ToolTip": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\Controllers\\OkulController.cs",
+              "RelativeToolTip": "MebOkullar\\Controllers\\OkulController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:16:35.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OzelOkulDto.cs",
+              "DocumentMoniker": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\DtoModel\\OzelOkulDto.cs",
+              "RelativeDocumentMoniker": "MebOkullar\\DtoModel\\OzelOkulDto.cs",
+              "ToolTip": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\DtoModel\\OzelOkulDto.cs",
+              "RelativeToolTip": "MebOkullar\\DtoModel\\OzelOkulDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:23:44.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericScaper.cs",
+              "DocumentMoniker": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\Scrapper\\GenericScaper.cs",
+              "RelativeDocumentMoniker": "MebOkullar\\Scrapper\\GenericScaper.cs",
+              "ToolTip": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\Scrapper\\GenericScaper.cs",
+              "RelativeToolTip": "MebOkullar\\Scrapper\\GenericScaper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwBgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T05:35:08.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OzelOkul.cs",
+              "DocumentMoniker": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\Models\\OzelOkul.cs",
+              "RelativeDocumentMoniker": "MebOkullar\\Models\\OzelOkul.cs",
+              "ToolTip": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\Models\\OzelOkul.cs",
+              "RelativeToolTip": "MebOkullar\\Models\\OzelOkul.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:12:19.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KursDto.cs",
+              "DocumentMoniker": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\DtoModel\\KursDto.cs",
+              "RelativeDocumentMoniker": "MebOkullar\\DtoModel\\KursDto.cs",
+              "ToolTip": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\DtoModel\\KursDto.cs",
+              "RelativeToolTip": "MebOkullar\\DtoModel\\KursDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:40:18.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OzelOkulService.cs",
+              "DocumentMoniker": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\Service\\OzelOkulService.cs",
+              "RelativeDocumentMoniker": "MebOkullar\\Service\\OzelOkulService.cs",
+              "ToolTip": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\Service\\OzelOkulService.cs",
+              "RelativeToolTip": "MebOkullar\\Service\\OzelOkulService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:38:00.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OzelYurtlar.cs",
+              "DocumentMoniker": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\Models\\OzelYurtlar.cs",
+              "RelativeDocumentMoniker": "MebOkullar\\Models\\OzelYurtlar.cs",
+              "ToolTip": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\Models\\OzelYurtlar.cs",
+              "RelativeToolTip": "MebOkullar\\Models\\OzelYurtlar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:18:00.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MebDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\Data\\MebDbContext.cs",
+              "RelativeDocumentMoniker": "MebOkullar\\Data\\MebDbContext.cs",
+              "ToolTip": "C:\\Users\\dlrka\\Desktop\\MebOkullar\\MebOkullar\\Data\\MebDbContext.cs",
+              "RelativeToolTip": "MebOkullar\\Data\\MebDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:30:32.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

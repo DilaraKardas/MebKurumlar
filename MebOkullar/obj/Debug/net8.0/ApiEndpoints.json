@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "MebOkullar.Controllers.OzelOkulConroller",
+    "Method": "ScrapeAndSave",
+    "RelativePath": "api/OzelOkulConroller/scrape-and-save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MebOkullar.Controllers.OkulController",
+    "Method": "OkullarAsync",
+    "RelativePath": "Okul/okullar/listele",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "okulDto",
+        "Type": "MebOkullar.DtoModel.OkulDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
